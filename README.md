@@ -9,14 +9,6 @@ Projeto desenvolvido no Desafio de Projeto de Excel da DIO, adaptando o simulado
 
 Ferramenta construída no Google Sheets e exportada para Excel (.xlsx).
 
-📸 A ferramenta funcionando
-
-Mesma simulação (reserva de R$ 3.000/mês, 5 anos, 0,8% ao mês) em dois perfis diferentes:
-
-Perfil Conservador Mostrar Imagem
-
-Perfil Expansão Mostrar Imagem
-
 Tabela de apoio com os percentuais de cada perfil Mostrar Imagem
 
 ❓ As 5 perguntas que a ferramenta responde
